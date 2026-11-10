@@ -39,7 +39,7 @@ jobs:
 
 To create a WeaveFox API key, visit https://www.weavefox.cn/open, generate a key in your WeaveFox account, and store it as a GitHub Actions secret such as `WEAVEFOX_API_KEY`.
 
-`public-id` is the `publicId` of your WeaveFox Pages app; the example uses `weavefox-test-app`.
+`public-id` is the `publicId` of your WeaveFox Pages app; the example uses `weavefox-test-app`. You can obtain this ID by creating a Pages app—upload your local project at https://www.weavefox.cn/vault/apps.
 
 ## Inputs
 
